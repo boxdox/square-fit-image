@@ -56,9 +56,8 @@ if (len(filelist)!=0):
 		squarefit(filelist[i])
 	os.system(clearkey)
 	print 'All Done! Check "converted" folder!'
-	raw_input("\nPress Enter to continue ...")
-	exit()
 else:
 	os.system(clearkey)
 	print 'Ummm, looks like directory does not contain any images! Did you type the correct path?\n\nPlease run the script again!'
-
+raw_input("\nPress Enter to continue ...")
+exit()
