@@ -11,7 +11,7 @@ For example, if I have an image thats 1920x1080 (ie. in landscape), this script 
 ---
 
 ### Prerequisites
-You must have PIL or Pillow installed. To install it using pip, use the code below
+You must have PIL or Pillow installed. To install it using pip, use the code below:
 ```
 pip install pillow
 ```
@@ -24,5 +24,6 @@ Run the script and enter the absoulute path of directory that contains the image
 ---
 
 ### Screenshots
+Left image is original and right one is converted!
 ![](screen1.png)
 ![](screen2.png)
