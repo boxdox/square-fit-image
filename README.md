@@ -1,5 +1,5 @@
 # Square Fit Image
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
+[![Travis](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
 [![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg)]()
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![David](https://img.shields.io/david/expressjs/express.svg)]()
