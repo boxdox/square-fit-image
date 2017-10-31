@@ -25,5 +25,5 @@ Run the script and enter the absoulute path of directory that contains the image
 
 ### Screenshots
 Left image is original and right one is converted!
-![](screen1.png)
-![](screen2.png)
+<p align="center"><img src="https://raw.githubusercontent.com/vaibhavkandwal/square-fit-image/master/screen1.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/vaibhavkandwal/square-fit-image/master/screen2.png"></p>
