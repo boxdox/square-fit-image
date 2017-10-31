@@ -7,10 +7,12 @@ Description: This script allows you to Square Fit an image, by adding white bode
 '''
 
 from PIL import Image
+import ctypes
 import os, os.path
 
 if os.name == 'nt':
 	clearkey = 'cls'
+	ctypes.windll.kernel32.SetConsoleTitleA("Image 1:1 Resizer")
 else:
 	clearkey = 'clear'
 
